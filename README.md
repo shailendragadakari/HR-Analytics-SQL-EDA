@@ -239,7 +239,7 @@ jupyter notebook notebooks/hr_attrition_analysis.ipynb
 
 ## :bust_in_silhouette: Author
 
-**Shailendra Gadakari**
+**Shailendra Gadakari**\
 B.E. Computer Science - BITS Pilani\
 IBM Data Science Professional Certificate\
 Microsoft Power BI Data Analyst Professional Certificate

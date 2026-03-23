@@ -88,7 +88,7 @@ hr-analytics-sql-eda/
 
 ---
 
-## :closed book: Key Findings
+## :closed_book: Key Findings
 
 ### 1. :red_circle: Overall Attrition is Above Industry Average
 **16.12%** of employees have left the company - above the typical healthy benchmark of **10-12%**. This indicates a systemic retention problem rather than isolated individual turnover.
@@ -159,7 +159,7 @@ Using multi-factor SQL filtering (overtime + low satisfaction + low income + ear
 
 ---
 
-## :increasing_chart: Visualizations
+## :chart_with_upwards_trend: Visualizations
 
 ### Attrition Overview
 ![Attrition Overview](visualizations/01_attrition_overview.png)

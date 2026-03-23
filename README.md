@@ -44,7 +44,7 @@ The analysis is structured across six sections:
 
 ---
 
-## Dataset
+## :clipboard: Dataset
 
 **IBM HR Analytics Employee Attrition & Performance**
 Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
@@ -159,7 +159,7 @@ Using multi-factor SQL filtering (overtime + low satisfaction + low income + ear
 
 ---
 
-## Visualizations
+## :increasing_chart: Visualizations
 
 ### Attrition Overview
 ![Attrition Overview](visualizations/01_attrition_overview.png)

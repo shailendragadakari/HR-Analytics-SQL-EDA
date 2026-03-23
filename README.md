@@ -242,7 +242,7 @@ jupyter notebook notebooks/hr_attrition_analysis.ipynb
 **Shailendra Gadakari**
 B.E. Computer Science - BITS Pilani\
 IBM Data Science Professional Certificate\
-Microsoft Power BI Data Analyst Professional Certificate\
+Microsoft Power BI Data Analyst Professional Certificate
 
 :email: shailendragdk2701@gmail.com
 :link: [LinkedIn](https://www.linkedin.com/in/shailendra-gadakari-b0a465332/)

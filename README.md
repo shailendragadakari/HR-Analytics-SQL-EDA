@@ -212,7 +212,7 @@ pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary jupyterla
 
 **1. Clone the repository:**
 ```bash
-git clone 
+git clone https://github.com/shailendragadakari/HR-Analytics-SQL-EDA.git
 cd hr-analytics-sql-eda
 ```
 

@@ -1,6 +1,6 @@
 # :bar_chart: HR Analytics - Employee Attrition Analysis
 
-> **Can we predict and prevent employee attrition using HR data alone?**
+> **Can we predict and prevent employee attrition using HR data alone?**\
 > This project uses PostgreSQL and Python to find out.
 
 ---
@@ -240,9 +240,9 @@ jupyter notebook notebooks/hr_attrition_analysis.ipynb
 ## :bust_in_silhouette: Author
 
 **Shailendra Gadakari**
-B.E. Computer Science - BITS Pilani
-IBM Data Science Professional Certificate
-Microsoft Power BI Data Analyst Professional Certificate
+B.E. Computer Science - BITS Pilani\
+IBM Data Science Professional Certificate\
+Microsoft Power BI Data Analyst Professional Certificate\
 
 :email: shailendragdk2701@gmail.com
 :link: [LinkedIn](https://www.linkedin.com/in/shailendra-gadakari-b0a465332/)
